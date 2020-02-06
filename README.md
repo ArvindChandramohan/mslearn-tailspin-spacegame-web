@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/ArvindVSTS/Learn%20Devops%20Code%20Flpw/_apis/build/status/Learn%20Devops%20Code%20Flpw-CI%20(1)?branchName=feature%2Fhom-page-txt)](https://dev.azure.com/ArvindVSTS/Learn%20Devops%20Code%20Flpw/_build/latest?definitionId=8&branchName=feature%2Fhom-page-txt)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a

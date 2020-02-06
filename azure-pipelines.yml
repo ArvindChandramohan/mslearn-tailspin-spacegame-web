@@ -7,7 +7,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'Windows-Latest'
+  vmImage: 'windows-latest'
   demands:
     - npm
 
@@ -15,6 +15,7 @@ variables:
   buildConfiguration: 'Release'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
   dotnetSdkVersion: '3.1.100'
+  DotNetCoreCLI@2: 
 
 steps:
 - task: UseDotNet@2
